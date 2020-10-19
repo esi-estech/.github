@@ -13,7 +13,7 @@ Please mark the option that is relevant
 
 ## Checklist
 
-Please check if your PR fulfills the following requirements (Remove irrelvant checks based on the type of PR):
+Please check if your PR fulfills the following requirements (Remove irrelevant checks based on the type of PR):
 
 - [ ] Tests for the changes have been added (for bug fixes / features)
 - [ ] Docs have been reviewed and added / updated if needed (for bug fixes / features)
