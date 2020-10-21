@@ -20,7 +20,9 @@ Please check if your PR fulfills the following requirements (Remove irrelevant c
 - [ ] I executed the existing test cases, and the results are,
 
 ```log
-
+# tests 
+# pass 
+# fail 
 ```
 
 **Relevant Height Ticket**: T-
