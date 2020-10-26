@@ -6,7 +6,7 @@ Please include a summary of the change and the relevant issue. Please also menti
 
 Please mark the appropriate option.
 
-- [ ] Bug fix (Non-breaking change which fixes an issue)
+- [ ] Bugfix (Non-breaking change which fixes an issue)
 - [ ] New feature (Non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality not to work as expected)
 - [ ] Documentation Update
